@@ -1,4 +1,5 @@
 ON THIS DAY I HAVE COMPLETED MY DAY 2 TASK SOLVING OF PROBLEMS USING HDLBITS
+
 1.STEP ONE
 ![image](https://github.com/user-attachments/assets/0541e16b-6186-4be6-93c4-8c3daaf7a224)
 2.ZERO
